@@ -1,0 +1,337 @@
+{
+    "en": {
+        "title": "Geography",
+
+        "home" : "Home page",
+        "home_1p": "Poland’s population tells a story of resilience, transformation, and adaptation. From its bustling urban centers to the quiet charm of rural landscapes, the way people live, work, and move shapes the country’s identity and future. But how well do we understand the forces that drive these changes?",
+        "home_2p": "In this unit, Population and Urbanization in Poland, we’ll uncover the fascinating dynamics behind the numbers: How is Poland’s population changing over time? What do the age, gender, and occupational patterns reveal about the country’s demographic structure? How do migration trends reflect economic and social realities? And what does the urbanization process tell us about Poland’s evolving settlement network?",
+        "home_3p": "Through six focused lessons, we’ll explore:",
+        "home_4p": "This lesson will cover the basics of geography.",
+        "home_5p": "Dive into the trends and factors shaping Poland’s population over the decades.",
+        "home_6p": "Analyze the age, gender, and socio-economic profiles of the population and their implications.",
+        "home_7p": "Investigate why some regions thrive while others experience depopulation.",
+        "home_8p": "Examine the push-and-pull factors behind domestic and international migrations and their impact.",
+        "home_9p": "Explore how demographic trends influence employment, workforce dynamics, and regional economies.",
+        "home_10p": "Understand how Poland’s cities and towns are growing, adapting, and shaping the nation’s development.",
+        "home_11p": "Below is the quiz about knowledge from primary school.",
+
+        "home_strong1": "Population Size and It’s Changes",
+        "home_strong2": "Demographic Structure of Poland’s Population",
+        "home_strong3": "Distribution of Population in Poland",
+        "home_strong4": "Migrations",
+        "home_strong5": "Labor market in Poland",
+        "home_strong6": "Urbanization and settlement network in Poland",
+        "home_strong7": "What’s Polish population. <a href=\"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PL-GR\" target=_blank>(2023)</a>",
+        "home_strong8": "What’s the most essential indicator of population growth",
+        "home_strong9": "What does it aging society mean for poland",
+        "home_strong10": "What’s Poland population density <a href=\"https://data.worldbank.org/indicator/EN.POP.DNST?locations=PL&most_recent_value_desc=false\" target=_blank>(2022)</a>",
+        "home_strong11": "Define Urbanization.",
+
+
+        "home_2h1": "lessons/topics",
+        "home_1h1": "Let’s see what you remember",
+
+        "home_1q_1a": "about 36.69 million",
+        "home_1q_2a": "about 35.97 million",
+        "home_1q_3a": "about 37.19 million",
+        "home_1q_4a": "about 37.79 million",
+
+        "home_2q_1a": "migration",
+        "home_2q_2a": "war/political status",
+        "home_2q_3a": "birth rate",
+        "home_2q_4a": "death rate",
+
+        "home_3q_1a": "Polish’s culture development",
+        "home_3q_2a": "Poland hasn’t cured aging yet",
+        "home_3q_3a": "Poland has underwhelming birth rate",
+        "home_3q_4a": "Only elderly people are politicians",
+
+        "home_4q_1a": "131 ppl./km",
+        "home_4q_2a": "133 ppl./km",
+        "home_4q_3a": "120 ppl./km",
+        "home_4q_4a": "123 ppl./km",
+
+        "home_5q_1a": "Creating parks in rural areas",
+        "home_5q_2a": "Moving people to cities.",
+        "home_5q_3a": "Turning land into factories.",
+        "home_5q_4a": "Modernizing farming.",
+
+
+
+        "lessons": "Unit 2",
+
+        "lesson1": "Lesson 1",
+        "lesson1_maintile" : "Population size and its changes",
+        "lesson1_introduction": "It’s common knowledge that word population is growing but why Poland’s population is declining and as a matter of fact is becoming bigger and bigger problem as time passes. Basically here we’ll tell you why.",
+        "lesson1_tile_population": "Changes in Poland’s population",
+        "lesson1_1p_population": "At the end of the year the Poland’s population was about 36,687,353 people.Is that a lot? In demographic rankings Poland has took place as 37th in international and 6th in European, but back in time Poland were at 19th international place.",
+        "lesson1_2tile_population": "When Poland's population was increasing",
+        "lesson1_2p_population": "After second word war population started  increasing dynamically it was caused by really high birth rate and low death rate. In 1950s annually there was 700K new babies. For context now it's about 370K every year and now there is 410K deaths every year.We can also consider changes in population relatively to certain regions; After second word war Poland had significant population growth in northern regions of the country what was caused by migration of poles from center to northern regions of the country; After regional demographic changes were caused by industrial development in certain regions. Now there is no population growth in Poland but decline especially in big cities.",
+
+        "lesson1_title_administration": "Administrative division in Poland",
+        "lesson1_lecture_about_administration": "In Poland, there is a three-tier administrative division. The largest in terms of area are the voivodeships (16). Slightly smaller are the counties (380), including land counties (314), and even smaller are the urban counties (66), which cover larger cities. The smallest units are the communes, which are small parts of a county (2477).",
+
+        "lesson1_legend1": "<strong class=\"blue\">Blue</strong> means people living in towns.",
+        "lesson1_legend2": "<strong class=\"black\">Black</strong> means people living in countrysides.",
+        "lesson1_legend3": "<strong class=\"blue\">Second blue</strong> means Poland's population.",
+
+        "lesson1_title_controversy": "Controversy about Poland's population",
+        "lesson1_lecture_about_depopulation": "Things such as low birth rate, hight pole's emigration are causing depopulation also know as more people dies than babies born certain year. You can observe on the map on your left that certain regions in Poland are becoming depopulated. Such issues with population growth can caused things such as;",
+        "lesson1_2title_controversy": "Issues caused by Population decline",
+        "lesson1_controversy_1strong": "Investor can lose interest in Poland and shortages of workforce",
+        "lesson1_controversy_2strong": "Lower chose for customer (as number of companies is going down), can mean absent of certain services",
+        "lesson1_controversy_3strong": "Absent of new investors (no new companies)",
+        "lesson1_controversy_4strong": "Simultaneously it can create bigger rate of unemployment that with less people able to pay taxes can cause issues with retiring ",
+
+        "lesson1_controversy_3title": "What government is doing",
+        "lesson1_conclusion": "To prevent the mentioned problems and their causes, the government is trying to offer high-quality public services, which in theory should be most useful for young couples, as well as partially supporting companies that provide stable employment, which is crucial when planning to have a child.",
+
+        "lesson1_review": "The most important things",
+        "lesson1_1important": "since 2012 Poland has problem with population decline, in 2023 Poland's population is estimated at  36,687,353 people ",
+        "lesson1_2important": "In Poland has a three-tier administrative division. There're 16 voivodeships, divided to counties 380 and counties are divided to communes 24477",
+        "lesson1_3important": "Poland's depopulation is caused by migration and low birth rate",
+
+        
+        "its_quiz_time": "Check if you remember things",
+        "lesson1_quiz1":"Tell Poland's population situation in 1950s",
+        "lesson1_quiz2":"Using map above tell if there is population decline in voivodeship Lubelskie",
+        "lesson1_quiz3":"What are consequences of declining population",
+
+
+
+        "lesson1_1q_1a":"Population was declining",
+        "lesson1_1q_2a":"Population was increasing",
+        "lesson1_1q_3a":"Population was increasing quickly",
+        "lesson1_1q_4a":"Population was stable nether declining nor increasing ",
+
+        "lesson1_2q_1a":"Population did declined by a little",
+        "lesson1_2q_2a":"Population did declined",
+        "lesson1_2q_3a":"Population did increased",
+        "lesson1_2q_4a":"Population did increased by a little",
+
+        "lesson1_3q_1a":"less investor, shortages of workforce, unemployment",
+        "lesson1_3q_2a":"less investor, shortages of workforce, higher wages",
+        "lesson1_3q_3a":"less investor, higher wages, unemployment",
+        "lesson1_3q_4a":"less investor, shortages of workforce, lower wages",
+
+        
+
+        
+        
+        "lesson2": "Lesson 2",
+        "title2_lesson1" : "Demographic structure of Poland’s population",
+        "lesson2_1p" : "Here we're going to examine how does look demographic structure of Poland. We'll start with; How did the natural increase develop?",
+        "lesson2_title2" : "1950s natural growth increase and after",
+        "lesson2_2p" : "There was high birth rate combine with low death rate thus natural growth increase was fluctuated between 16‰ and 19‰ that we call <strong>demographic boom</strong>. It was also caused by hight natural increase after second word war. In 1960s birth rate significantly decreased  with same  death rate back in 1960s natural growth increase declined to less than 10‰ of the population and that we call <string>population decline</strong>. Since 1970s natural growth increase was increasing because of increase in birth rate.",
+        "lesson2_4p": "This time in Polish history is called <strong>echo of the demographic boom</strong>. In 1980s birth rate was going down and death rate stood at same level and since 1988 we are observing similar rate of births, and deaths thus natural growth increase fluctuate around 0‰ this type of time we can call <strong>regression of demographic development</strong> In the end we have contemporary (2019) natural growth increase which is negative number (about -0.9‰)",
+        "lesson2_title5": "Fertility rate in Poland 1971-2012",
+        "lesson2_6p": "<strong class=\"green\">Green</strong> is threshold of simple generation replacement",
+        "lesson2_7p": "<strong class=\"red\">Green</strong> is threshold of rapid population decline",
+
+        "lesson2_title3": "Natural growth increase in Poland",
+        "lesson2_3p": "The natural population growth consists of number of deaths, and births. <strong>Natural increase rate<strong> is measured in per mille (‰). You can observe that on graph down blow.",
+        "lesson2_5p":"Certainly in most regions of Poland there is negative balance of natural increase (depopulation) it especially true for western, central, northern-western regions of Poland. There are few regions where natural increase is positive those place are mostly big cities, wealthy places, places with big number of towns and in voivodeships as Pomorskie, Małopolskie ",
+        
+
+        "lesson2_title4": "How to calculate natural increase",
+        "lesson2_explaining_formula1": "Natural increase is in ‰ that's means it's a per mille of population. So predictively we're going to divided by population (P) but first we need to know balance of deaths and births. Formula for this is Balance = B(births) - D(deaths) so the formula we were looking for is ((B-D)/P) * 1000 * ‰. * 1000 * ‰ is just for correct units.",
+
+
+
+
+
+        "lesson3": "Lesson 3",
+        "title_lesson3" : "Distribution of population in Poland",
+        "lesson3_1p" : "",
+        "lesson3_2p" : "",
+
+
+        "lesson4": "Lesson 4",
+        "title_lesson4" : "Migrations",
+        "lesson4_1p" : "",
+        "lesson4_2p" : "",
+        
+
+        "lesson5": "Lesson 5",
+        "title_lesson5" : "Labor market in Poland",
+        "lesson5_1p" : "",
+        "lesson5_2p" : "",
+
+
+        "lesson6": "Lesson 6",
+        "title_lesson6" : "Urbanization and settlement network in Poland",
+        "lesson6_1p" : "",
+        "lesson6_2p" : "",
+
+
+        "review": "Review",
+        "review_1h1": "Hi",
+
+        "search": "Search...",
+        "welcome": "Population and Urbanization in Poland"
+        
+        
+
+        
+    },
+    "pl": {
+        "title": "Geografia",
+
+        "home" : "Wprowadzenie",
+
+        "home_1p": "Ludność Polski to opowieść o odporności, transformacji i adaptacji. Od tętniących życiem centrów miejskich po spokojny urok obszarów wiejskich – sposób, w jaki ludzie żyją, pracują i migrują, kształtuje tożsamość kraju i jego przyszłość. Ale jak dobrze rozumiemy siły, które napędzają te zmiany?",
+        "home_2p": "W tym temacie, Ludność i urbanizacja w Polsce, odkryjemy fascynującą dynamikę kryjącą się za liczbami: Jak zmienia się liczba ludności Polski na przestrzeni lat? Co struktura wiekowa, płciowa i zawodowa mówi o społeczeństwie? W jaki sposób trendy migracyjne odzwierciedlają rzeczywistość ekonomiczną i społeczną? I co proces urbanizacji mówi nam o zmieniającej się sieci osadniczej kraju?",
+        "home_3p": "W ramach sześciu lekcji przyjrzymy się następującym zagadnieniom:",
+        "home_4p": "Ta lekcja obejmie podstawy geografii.",
+        "home_5p": "Zagłęb się w trendy i czynniki kształtujące populację Polski na przestrzeni dekad.",
+        "home_6p": "Analizuj profile wiekowe, płciowe i społeczno-ekonomiczne ludności oraz ich implikacje.",
+        "home_7p": "Zbadaj, dlaczego niektóre regiony prosperują, podczas gdy inne doświadczają wyludnienia.",
+        "home_8p": "Zbadaj czynniki wypychające i przyciągające, które stoją za migracjami krajowymi i międzynarodowymi oraz ich wpływ.",
+        "home_9p": "Poznaj, jak trendy demograficzne wpływają na zatrudnienie, dynamikę siły roboczej i gospodarki regionalne.",
+        "home_10p": "Zrozum, jak miasta i miasteczka w Polsce rozwijają się, adaptują i kształtują rozwój kraju.",
+        "home_11p": "Na dole jest quiz z zakresu podstawuwkowej wiedzy",
+
+        "home_strong1": "Liczba ludności i jej zmiany",
+        "home_strong2": "Struktura demograficzna ludności Polski",
+        "home_strong3": "Rozmieszczenie ludności w Polsce",
+        "home_strong4": "Migracje",
+        "home_strong5": "Rynek pracy w Polsce",
+        "home_strong6": "Urbanizacja i sieć osadnicza w Polsce",
+        "home_strong7": "Jaka jest populacja Polski. <a href=\"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PL-GR\" target=_blank>(2023)</a>",
+        "home_strong8": "Jaki jest najważniejszy wskaźnik wzrostu populacji?",
+        "home_strong9": "Co oznacza starzejące się społeczeństwo dla Polski?",
+        "home_strong10": "Jaka jest gęstość zaludnienia w Polsce <a href=\"https://data.worldbank.org/indicator/EN.POP.DNST?locations=PL&most_recent_value_desc=false\" target=_blank>(2022)</a>",
+        "home_strong11": "Zdefiniuj urbanizację.",
+
+
+        "home_2h1": "lekcje/tematy",
+        "home_1h1": "Zobaczmy co pamiętasz",
+
+        "home_1q_1a": "około 36,69 miliona",
+        "home_1q_2a": "około 35,97 miliona",
+        "home_1q_3a": "około 37,19 miliona",
+        "home_1q_4a": "około 37,79 miliona",
+
+        "home_2q_1a": "migracja",
+        "home_2q_2a": "wojna/status polityczny",
+        "home_2q_3a": "wskaźnik urodzeń",
+        "home_2q_4a": "wskaźnik zgonów",
+
+        "home_3q_1a": "Rozwój polskiej kultury",
+        "home_3q_2a": "Polska nie wyleczyła starzenia",
+        "home_3q_3a": "Polska ma niski wskaźnik urodzeń",
+        "home_3q_4a": "Tylko osoby starsze są politykami",
+
+        "home_4q_1a": "131 os./km",
+        "home_4q_2a": "133 os./km",
+        "home_4q_3a": "120 os./km",
+        "home_4q_4a": "123 os./km",
+
+        "home_5q_1a": "Tworzenie parków na obszarach wiejskich",  
+        "home_5q_2a": "Zamieszkiwanie w miastach",  
+        "home_5q_3a": "Zwiększenie zapotrzebowania na fabryki.",  
+        "home_5q_4a": "Modernizacja rolnictwa." ,
+
+
+        "lessons": "Rozdział 2",
+
+        "lesson1": "Lekcja 1",
+        "lesson1_maintile": "Liczba ludności i jej zmiany",
+        "lesson1_introduction": "Powszechnie wiadomo, że liczba ludności na świecie rośnie, ale dlaczego liczba ludności w Polsce maleje i staje się coraz większym problemem z biegiem czasu? Tutaj wyjaśnimy dlaczego.",
+        "lesson1_tile_population": "Zmiany w liczbie ludności Polski",
+        "lesson1_1p_population": "Pod koniec roku liczba ludności Polski wyniosła około 36 687 353 osoby. Czy to dużo? W rankingach demograficznych Polska zajęła 37. miejsce na świecie i 6. w Europie, ale dawniej Polska była na 19. miejscu w rankingach światowych.",
+        "lesson1_2tile_population": "Kiedy populacja Polski rosła",
+        "lesson1_2p_population": "Po drugiej wojnie światowej populacja zaczęła dynamicznie rosnąć. Było to spowodowane bardzo wysokim wskaźnikiem urodzeń i niskim wskaźnikiem zgonów. W latach 50. rocznie rodziło się 700 tys. dzieci. Dla porównania, obecnie jest to około 370 tys. rocznie, a liczba zgonów wynosi 410 tys. rocznie. Możemy także rozważyć zmiany populacji w odniesieniu do poszczególnych regionów; po drugiej wojnie światowej znaczący wzrost populacji miał miejsce w północnych regionach Polski.",
+
+        "lesson1_legend1": "<strong class=\"blue\">Niebieski</strong> oznacza ludzi mieszkajacych w miastach",
+        "lesson1_legend2": "<strong class=\"black\">Czarny</strong> oznacza ludzi mieszkajacych w wsiach",
+        "lesson1_legend3": "<strong class=\"blue\">2 Niebieski</strong> oznacza populacje Polski",
+
+        "lesson1_title_administration": "Administracyjny podział Polski.",
+        "lesson1_lecture_about_administration": "W polsce jest trój stopniowy podział administracyjny. Największe powierzchniowo są województwa (16) troche mnijsze są też powiaty (380)  jak i powiaty ziemskie (314) a jeszcze mniejsze są (66) powiatów grodzkich teren większych miast. najmniejsze są gminy a gminy mała część powiatu (2477).",
+
+        "lesson1_title_controversy": "Kontrowersynjne zmiany ludności w Polsce",
+        "lesson1_lecture_about_depopulation": "Takie czynniki, jak niski wskaźnik urodzeń i wysoka emigracja Polaków, powodują depopulację, czyli sytuację, w której w danym roku umiera więcej osób niż się rodzi. Na mapie po lewej stronie można zaobserwować, że niektóre regiony Polski ulegają depopulacji. Problemy związane ze wzrostem populacji mogą powodować takie skutki, jak:",
+        "lesson1_2title_controversy": "Problemy spowodowane spadkiem populacji",
+        "lesson1_controversy_1strong": "Inwestorzy mogą stracić zainteresowanie Polską, a braki w siłach roboczych",
+        "lesson1_controversy_2strong": "Mniejszy wybór dla konsumentów (zmniejszenie liczby firm) może oznaczać brak niektórych usług",
+        "lesson1_controversy_3strong": "Brak nowych inwestorów (brak nowych firm)",
+        "lesson1_controversy_4strong": "Jednocześnie może to prowadzić do wyższego wskaźnika bezrobocia, co przy mniejszej liczbie osób zdolnych do płacenia podatków może powodować problemy z systemem emerytalnym",
+        
+        "lesson1_controversy_3title": "Co rząd robi na ten temat",
+        "lesson1_conclusion":"Aby zapobic wymienionym problemom jak i ich przyczynie rząd prubuje oferować często wysokiej jakości usługi publiczne które najbardziej przydatne w teori powinno być dla młodych małżęństw, oraz wspirając poczęsci firmy które oferują stabilne zatrudnie co jest kluczowe jeśli chce się mieć dziecko.",
+
+        "lesson1_review": "Zapamiętaj",
+        "lesson1_1important": "Od 2012 roku Polska zmaga się z problemem spadku liczby ludności. W 2023 roku populacja Polski jest szacowana na 36 687 353 osoby.",
+        "lesson1_2important": "W Polsce istnieje trójstopniowy podział administracyjny. Jest 16 województw, podzielonych na 380 powiatów, a powiaty są podzielone na 24 477 gmin.",
+        "lesson1_3important": "Depopulacja w Polsce jest spowodowana migracją i niskim wskaźnikiem urodzeń.",
+
+        "its_quiz_time": "Sprawdź, czy pamiętasz zagadnienia",
+        "lesson1_quiz1": "Opisz sytuację demograficzną Polski w latach 50.",
+        "lesson1_quiz2": "Korzystając z mapy powyżej, określ, czy w województwie lubelskim występuje spadek liczby ludności",
+        "lesson1_quiz3": "Jakie są konsekwencje spadku liczby ludności?",
+
+        "lesson1_1q_1a": "Liczba ludności spadała",
+        "lesson1_1q_2a": "Liczba ludności rosła",
+        "lesson1_1q_3a": "Liczba ludności rosła szybko",
+        "lesson1_1q_4a": "Liczba ludności była stabilna – ani nie rosła, ani nie malała",
+
+        "lesson1_2q_1a": "Liczba ludności spadła nieznacznie",
+        "lesson1_2q_2a": "Liczba ludności spadła",
+        "lesson1_2q_3a": "Liczba ludności wzrosła",
+        "lesson1_2q_4a": "Liczba ludności wzrosła nieznacznie",
+
+        "lesson1_3q_1a": "Mniej inwestorów, niedobory siły roboczej, bezrobocie",
+        "lesson1_3q_2a": "Mniej inwestorów, niedobory siły roboczej, wyższe płace",
+        "lesson1_3q_3a": "Mniej inwestorów, wyższe płace, bezrobocie",
+        "lesson1_3q_4a": "Mniej inwestorów, niedobory siły roboczej, niższe płace",
+
+        "lesson2": "Lekcja 2",
+        "title2_lesson1": "Struktura demograficzna ludności Polski",
+        "lesson2_1p": "Tutaj przyjrzymy się strukturze demograficznej Polski. Zaczniemy od tego, jak rozwijał się przyrost naturalny?",
+        "lesson2_title2": "Przyrost naturalny w latach 50. i potem",
+        "lesson2_2p": "Wysoki wskaźnik urodzeń połączony z niską śmiertelnością sprawił, że przyrost naturalny wahał się między 16‰ a 19‰, co nazywamy <strong>boomem demograficznym</strong>. Było to również wynikiem wysokiego przyrostu naturalnego po drugiej wojnie światowej. W latach 60. wskaźnik urodzeń znacznie spadł, przy takim samym wskaźniku śmiertelności, a przyrost naturalny spadł do poniżej 10‰ ludności, co nazywamy <strong>spadkiem liczby ludności</strong>. Od latach 70 przyrost naturalny zaczął rosnąć w wyniku wzrostu liczby urodzeń.",
+        "lesson2_4p": "Ten okres w historii Polski nazywany jest <strong>echo wyżu demograficznego</strong>. W latach 80-tych XX wieku współczynnik urodzeń spadał, a współczynnik zgonów utrzymywał się na tym samym poziomie. Od 1988 roku obserwujemy podobny poziom urodzeń i zgonów, a przyrost naturalny oscyluje wokół 0‰. Taki okres możemy określić jako <strong>regresję rozwoju demograficznego</strong>. Na koniec mamy współczesny (2019) przyrost naturalny, który jest liczbą ujemną (około -0,9‰).",
+        "lesson2_title5": "Wskaźnik urodzeń w Polsce 1971-2012",
+        "lesson2_6p": "<strong class=\"green\">Zielony</strong> to próg prostego zastąpienia pokoleń",
+        "lesson2_7p": "<strong class=\"red\">Czerwony</strong> to próg szybkiego spadku liczby ludności",
+
+
+        "lesson2_title3": "Przyrost naturalny w Polsce",
+        "lesson2_3p": "Przyrost naturalny ludności składa się z liczby zgonów i urodzeń. <strong>Współczynnik przyrostu naturalnego</strong> mierzy się w promilach (‰). Można to zobaczyć na wykresie poniżej.",
+        "lesson2_5p": "Zdecydowanie w większości regionów Polski występuje ujemny bilans przyrostu naturalnego (depopulacja), szczególnie dotyczy to zachodnich, centralnych i północno-zachodnich regionów Polski. Istnieje kilka regionów, gdzie przyrost naturalny jest dodatni, są to głównie duże miasta, bogate miejsca, obszary z dużą liczbą miejscowości oraz województwa takie jak Pomorskie, Małopolskie.",
+
+        "lesson2_title4": "Jak obliczyć przyrost naturalny",
+        "lesson2_explaining_formula1": "Przyrost naturalny wyraża się w promilach (‰), co oznacza, że jest to liczba na 1000 mieszkańców. Aby obliczyć ten wskaźnik, musimy najpierw poznać bilans zgonów i urodzeń. Formuła na to wygląda następująco: Bilans = U (urodzenia) - Z (zgony). Zatem formuła, którą poszukujemy, to ((U-Z)/P) * 1000. Mnożenie przez 1000 służy tylko do uzyskania odpowiednich jednostek.",
+
+
+        "lesson3": "Lekcja 3",
+        "title_lesson3" : "Rozmieszczenie ludności w Polsce",
+        "lesson3_1p" : "",
+        "lesson3_2p" : "",
+
+        "lesson4": "Lekcja 4",
+        "title_lesson4" : "Migracje",
+        "lesson4_1p" : "",
+        "lesson4_2p" : "",
+        
+        "lesson5": "Lekcja 5",
+        "title_lesson5" : "Rynek pracy w Polsce",
+        "lesson5_1p" : "",
+        "lesson5_2p" : "",
+
+        "lesson6": "Lekcja 6",
+        "title_lesson6" : "Urbanizacja i sieć osadnicza w Polsce.",
+        "lesson6_1p" : "",
+        "lesson6_2p" : "",
+        
+        "review": "Powtórzenie",
+        "review_1h1":"Hej",
+        
+        "search": "Szukaj...",
+        "welcome": "Ludność i urbanizacja w Polsce"
+        
+
+        
+    }
+}

@@ -1,0 +1,328 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: row;
+}
+/* Top Bar */
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background: linear-gradient(90deg, #a8e063, #56ab2f); /* Lime-green gradient */
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+    color: white; /* For contrast */
+}
+
+.top-bar .search-bar {
+    margin-left: auto;
+    position: relative;
+    width: 300px;
+}
+
+.top-bar .search-bar input {
+    width: 100%;
+    padding: 8px 40px 8px 40px; /* Adjusted padding for icon space */
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    outline: none;
+    font-size: 14px;
+    background-color: #ffffffcc; /* Semi-transparent white */
+    color: #333;
+}
+
+.top-bar .search-bar .search-icon {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 15px; /* Position inside input */
+    transform: translateY(-50%);
+    font-size: 16px;
+    color: #aaa;
+    pointer-events: none; /* Make it non-clickable */
+}
+
+/* Dropdown Language Selector */
+.top-bar .languages select {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffffffaa; /* Semi-transparent white */
+    color: #333;
+    cursor: pointer;
+}
+
+/* Left Sidebar */
+/* Left Sidebar */
+.left-sidebar {
+    position: fixed;
+    top: 50px; /* Adjusted to fit below the top bar */
+    left: 0;
+    width: 190px; /* Increased width slightly to accommodate longer words */
+    height: calc(100vh - 50px); /* Full height minus top bar height */
+    background-color: #fff;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+    box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto; /* Enable scrolling if content overflows */
+}
+
+.left-sidebar ul li a {
+    text-decoration: none;
+    color: #56ab2f; /* Normal green color */
+    font-size: 16px;
+    transition: color 0.3s;
+    display: block;
+    padding: 8px 12px;
+    border-radius: 5px;
+    word-wrap: break-word; /* Break long words to fit within the container */
+    overflow-wrap: break-word; /* Ensure proper word-breaking in modern browsers */
+    text-overflow: ellipsis; /* Show ellipsis for overflowing text if no wrapping */
+    white-space: normal; /* Allow wrapping */
+}
+
+.left-sidebar h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+.left-sidebar ul {
+    list-style: none;
+}
+
+.left-sidebar ul li {
+    margin-bottom: 10px;
+}
+
+
+.left-sidebar ul li a.active {
+    background-color: #56ab2f; /* Highlighted green background */
+    color: white; /* Change text color to white when active */
+    padding: 8px 12px;
+    border-radius: 5px; /* Rounded corners for a polished look */
+    font-weight: bold; /* Emphasize the active link */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for focus */
+    transition: all 0.3s ease-in-out; /* Smooth transition for color changes */
+}
+
+
+
+
+/* Hover Effect */
+.left-sidebar ul li a:hover {
+    background-color: #e0f7da; /* Light green hover effect */
+    color: #3c7a21; /* Slightly darker text for hover */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+/* Main Content */
+.main-content {
+    margin-left: 170px; /* Width of sidebar + spacing */
+    padding: 70px 20px; /* Account for top bar height */
+    flex: 1;
+    color: #333;
+}
+
+.main-content h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.main-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px; /* Adds space below each paragraph */
+}
+
+
+/* Style for Lesson Content */
+.lesson-content {
+    margin: 20px;
+    padding: 20px;
+    background: #ffffff; /* White background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Headings */
+.lesson-content h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #56ab2f; /* Green for emphasis */
+}
+
+.lesson-content h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Styled Ordered List */
+.styled-list {
+    list-style: none; /* Remove default numbering */
+    padding-left: 0;
+    counter-reset: list-counter; /* Initialize custom counter */
+}
+
+.styled-list li {
+    counter-increment: list-counter; /* Increment the counter for each item */
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 40px; /* Space for custom counter */
+}
+
+/* Custom Counter Design */
+.styled-list li::before {
+    content: counter(list-counter) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #56ab2f; /* Green numbering */
+    background: #e0f7da; /* Light green background */
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Sub-item Description */
+.styled-list li p {
+    margin-top: 5px;
+    color: #666;
+    line-height: 1.6;
+}
+
+
+/* Quiz Box */
+.quiz-box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* Style for ordered list without numbers */
+.styled-list {
+    list-style-type: none; /* Remove default numbering */
+    padding-left: 0; /* Remove indentation */
+}
+
+/* Style for list items to make them more separated visually */
+.styled-list li {
+    margin-bottom: 30px; /* Add space between each quiz item */
+    padding-bottom: 10px;
+    /* border-bottom: 1px solid #ddd; Optional border between list items */
+}
+
+/* Hide the radio buttons */
+.quiz-option {
+    display: none;
+}
+
+/* Style for buttons (labels) */
+.quiz-button-true, .quiz-button-false {
+    background-color: #f4f4f4; /* Neutral background */
+    color: #333; /* Neutral text color */
+    border: 2px solid #ddd; /* Subtle border */
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex: 1;
+    margin: 0 5px; /* Space between buttons */
+    text-align: center;
+}
+
+/* Hover effect */
+.quiz-button-true:hover, .quiz-button-false:hover {
+    background-color: #e0e0e0; /* Slightly darker neutral hover */
+}
+
+/* When the first option is selected */
+.quiz-option:checked + .quiz-button-false {
+    background-color: #e57373; /* Light red for incorrect answer */
+    color: white;
+    border-color: #d32f2f; /* Darker red border */
+}
+
+/* When the second option is selected (correct answer) */
+.quiz-option:checked + .quiz-button-true {
+    background-color: #a8e063; /* Lime-green for correct answer */
+    color: white;
+    border-color: #56ab2f; /* Darker green border */
+}
+
+/* Link style */
+a {
+    color: #56ab2f;
+}
+
+/* Styling for <strong> elements, optional */
+.styled-list li strong {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+strong.blue {
+    color: #00aaff; /* Cyan in HEX */
+}
+
+strong.green {
+    color: #56ab2f;
+}
+
+strong.red {
+    color: #d52b2b;
+}
+
+
+.flex-container {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    gap: 20px; /* Space between image and text */
+    margin: 20px;
+}
+
+.flex-image {
+    width: 40%; /* Set desired width for the image */
+    height: auto; /* Maintain aspect ratio */
+    flex-shrink: 0; /* Prevent image from shrinking */
+}
+
+.flex-text {
+    flex: 1; /* Allow the text to take remaining space */
+}
+
+@media (max-width: 768px) {
+    .flex-container {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+        align-items: flex-start; /* Align text to the left */
+    }
+
+    .flex-image {
+        margin-bottom: 10px; /* Add spacing between stacked elements */
+    }
+}
+
+.small-imgs {
+    max-height: 500px;
+}
