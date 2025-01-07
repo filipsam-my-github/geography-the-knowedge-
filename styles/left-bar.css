@@ -1,0 +1,62 @@
+/* Left Sidebar */
+.left-sidebar {
+    position: fixed;
+    top: 50px; /* Adjusted to fit below the top bar */
+    left: 0;
+    width: 190px; /* Increased width slightly to accommodate longer words */
+    height: calc(100vh - 50px); /* Full height minus top bar height */
+    background-color: #fff;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+    box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto; /* Enable scrolling if content overflows */
+}
+
+.left-sidebar ul li a {
+    text-decoration: none;
+    color: #56ab2f; /* Normal green color */
+    font-size: 16px;
+    transition: color 0.3s;
+    display: block;
+    padding: 8px 12px;
+    border-radius: 5px;
+    word-wrap: break-word; /* Break long words to fit within the container */
+    overflow-wrap: break-word; /* Ensure proper word-breaking in modern browsers */
+    text-overflow: ellipsis; /* Show ellipsis for overflowing text if no wrapping */
+    white-space: normal; /* Allow wrapping */
+}
+
+.left-sidebar h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+.left-sidebar ul {
+    list-style: none;
+}
+
+.left-sidebar ul li {
+    margin-bottom: 10px;
+}
+
+
+.left-sidebar ul li a.active {
+    background-color: #56ab2f; /* Highlighted green background */
+    color: white; /* Change text color to white when active */
+    padding: 8px 12px;
+    border-radius: 5px; /* Rounded corners for a polished look */
+    font-weight: bold; /* Emphasize the active link */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for focus */
+    transition: all 0.3s ease-in-out; /* Smooth transition for color changes */
+}
+
+
+
+
+/* Hover Effect */
+.left-sidebar ul li a:hover {
+    background-color: #e0f7da; /* Light green hover effect */
+    color: #3c7a21; /* Slightly darker text for hover */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}

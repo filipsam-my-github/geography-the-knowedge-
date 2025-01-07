@@ -1,0 +1,17 @@
+/* Styling for <strong> elements, optional */
+.styled-list li strong {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+strong.blue {
+    color: #00aaff; /* Cyan in HEX */
+}
+
+strong.green {
+    color: #56ab2f;
+}
+
+strong.red {
+    color: #d52b2b;
+}

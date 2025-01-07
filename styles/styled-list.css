@@ -1,0 +1,39 @@
+/* Styled Ordered List */
+.styled-list {
+    list-style: none; /* Remove default numbering */
+    padding-left: 0;
+    counter-reset: list-counter; /* Initialize custom counter */
+}
+
+.styled-list li {
+    counter-increment: list-counter; /* Increment the counter for each item */
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 40px; /* Space for custom counter */
+}
+
+/* Custom Counter Design */
+.styled-list li::before {
+    content: counter(list-counter) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #56ab2f; /* Green numbering */
+    background: #e0f7da; /* Light green background */
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Sub-item Description */
+.styled-list li p {
+    margin-top: 5px;
+    color: #666;
+    line-height: 1.6;
+}

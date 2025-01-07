@@ -137,6 +137,22 @@
         "lesson2_explaining_formula1": "Natural increase is in ‰ that's means it's a per mille of population. So predictively we're going to divided by population (P) but first we need to know balance of deaths and births. Formula for this is Balance = B(births) - D(deaths) so the formula we were looking for is ((B-D)/P) * 1000 * ‰. * 1000 * ‰ is just for correct units.",
 
 
+        "lessons2_title5": "The Decline of Fertility Rates in Poland: A Demographic Perspective",
+        "lesson2_t5_1p": "The birth rate serves as a key indicator of a society's procreative tendencies and demographic vitality. A nation experiences stable population growth when, in a given year, at least 210 children are born for every 100 women of reproductive age (15–49 years). This threshold corresponds to a fertility rate—a measure of the average number of children born per woman—that slightly exceeds 2.",
+        "lesson2_t5_2p": "Examining historical trends reveals a stark contrast between past and present figures. Up until the late 1980s, Poland consistently maintained a fertility rate above the replacement level of 2. However, subsequent decades have witnessed a precipitous decline. By 2019, the fertility rate had plummeted to a mere 1.4.",
+        "lesson2_t5_3p": "This phenomenon is largely attributed to a growing tendency among younger generations to delay family formation. Such postponement often results in smaller family sizes or even a complete absence of offspring.",
+        "lesson2_t5_4p": "In contemporary Poland, the fertility rate has fallen below the level required for generational replacement across the entire country, signaling profound challenges for its demographic sustainability.",
+
+
+        "lesson2_title6": "Why dose Poland have such a low birth rate",
+        "lesson2_t6_p1": "The most significant causes are",
+        "lesson2_t6_p2": "The emergence of the 2+1 or 2+0 family model, a shift toward a more consumption-driven lifestyle, the elongation of working hours, heightened professional engagement, and the growing sophistication of young individuals in navigating diverse family planning strategies.",
+        "lesson2_t6_p3": "Insufficient financial security stemming from unemployment, inadequate housing conditions, and labor migration among Poles.",
+        "lesson2_t6_p4": "Maternity leave, the introduction of paternity leave, and innovative childcare solutions (e.g., child clubs or the option to employ nannies). Simultaneously, a system of discounts through the Large Family Card was implemented, along with increased financial support, such as the introduction of a pro-family tax credit and child-rearing benefits under the “Family 500+” program.",
+
+
+        "lesson2_t6_strong1":"socio-cultural conditioning",
+        "lesson2_t6_strong2":"Economical situation in Poland",
 
 
 
@@ -303,6 +319,24 @@
 
         "lesson2_title4": "Jak obliczyć przyrost naturalny",
         "lesson2_explaining_formula1": "Przyrost naturalny wyraża się w promilach (‰), co oznacza, że jest to liczba na 1000 mieszkańców. Aby obliczyć ten wskaźnik, musimy najpierw poznać bilans zgonów i urodzeń. Formuła na to wygląda następująco: Bilans = U (urodzenia) - Z (zgony). Zatem formuła, którą poszukujemy, to ((U-Z)/P) * 1000. Mnożenie przez 1000 służy tylko do uzyskania odpowiednich jednostek.",
+
+        "lessons2_title5": "Spadek Współczynnika Dzietności w Polsce: Perspektywa Demograficzna",
+        "lesson2_t5_1p": "Wskaźnik urodzeń stanowi kluczowy miernik tendencji prokreacyjnych oraz demograficznej żywotności społeczeństwa. Stabilny rozwój populacji ma miejsce, gdy w danym roku na każde 100 kobiet w wieku rozrodczym (15–49 lat) przypada co najmniej 210 urodzonych dzieci. Próg ten odpowiada współczynnikowi dzietności – średniej liczbie dzieci przypadających na jedną kobietę – który nieznacznie przekracza wartość 2.",
+        "lesson2_t5_2p": "Analiza trendów historycznych ukazuje wyraźny kontrast między przeszłością a teraźniejszością. Jeszcze do końca lat 80. XX wieku Polska utrzymywała współczynnik dzietności powyżej poziomu zastępowalności pokoleń, wynoszącego 2. Jednak w kolejnych dekadach odnotowano gwałtowny spadek. W 2019 roku współczynnik ten osiągnął zaledwie 1,4.",
+        "lesson2_t5_3p": "Zjawisko to w dużej mierze wynika z coraz częstszego odkładania przez młodsze pokolenia decyzji o założeniu rodziny. Takie opóźnienia często prowadzą do mniejszych rodzin lub nawet całkowitego braku potomstwa.",
+        "lesson2_t5_4p": "Współcześnie w całej Polsce współczynnik dzietności spadł poniżej poziomu koniecznego do prostej zastępowalności pokoleń, co stanowi istotne wyzwanie dla demograficznej stabilności kraju.",
+
+        
+
+        "lesson2_title6": "Dlaczego Polaska ma taki niski <strong>współczynnik urodzeń</strong>",
+        "lesson2_t6_p1": "Najistotniejszymi/Najbarziej znaczącymi przyczynami są",
+        "lesson2_t6_p2": "Wyłonienie się modelu rodziny 2+1 lub 2+0, przejście na bardziej konsumpcyjny styl życia, wydłużenie czasu pracy, wzmożona aktywność zawodowa oraz rosnąca świadomość młodych ludzi w zakresie różnorodnych strategii planowania rodziny.",
+        "lesson2_t6_p3": "Niewystarczające zabezpieczenie finansowe wynikające z bezrobocia, nieodpowiednie warunki mieszkaniowe oraz migracja zarobkowa Polaków",
+        "lesson2_t6_p4": "Urlop macierzyński, wprowadzenie urlopu ojcowskiego oraz nowatorskie rozwiązania w zakresie opieki nad dziećmi (np. kluby dziecięce czy możliwość zatrudniania opiekunek). Jednocześnie wdrożono system zniżek w ramach Karty Dużej Rodziny oraz zwiększono wsparcie finansowe, w tym ulgi prorodzinne i świadczenia wychowawcze w ramach programu „Rodzina 500+.”",
+
+
+        "lesson2_t6_strong1":"Uwarunkowanie społeczno kulturowe",
+        "lesson2_t6_strong2":"Polska sytuacja ekonomiczna",
 
 
         "lesson3": "Lekcja 3",

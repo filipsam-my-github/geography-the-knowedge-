@@ -1,0 +1,27 @@
+.flex-container {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    gap: 20px; /* Space between image and text */
+    margin: 20px;
+}
+
+.flex-image {
+    width: 40%; /* Set desired width for the image */
+    height: auto; /* Maintain aspect ratio */
+    flex-shrink: 0; /* Prevent image from shrinking */
+}
+
+.flex-text {
+    flex: 1; /* Allow the text to take remaining space */
+}
+
+@media (max-width: 768px) {
+    .flex-container {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+        align-items: flex-start; /* Align text to the left */
+    }
+
+    .flex-image {
+        margin-bottom: 10px; /* Add spacing between stacked elements */
+    }
+}
