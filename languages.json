@@ -154,6 +154,67 @@
         "lesson2_t6_strong1":"socio-cultural conditioning",
         "lesson2_t6_strong2":"Economical situation in Poland",
 
+        "lesson2_title7": "Did you know?",
+        "lesson2_t7_p1": "Agricultural countryside doesn't seem really attractive for young adults and specially for young womans. In 2019 in age 20-34 in countryside were living 107k man more than woman",
+
+        "lesson2_tile8":"The Demographic Composition by Gender: A Refined Perspective",
+        "lesson2_t8_p1":"In our country, women outnumber men, a fact evidenced by the feminization ratio. As of 2019, women accounted for 51.6% of the population. Over the years, this trend has remained consistent, with approximately 107 women for every 100 men. What accounts for this numerical advantage? Interestingly, more boys than girls are born in Poland, leading to a slight numerical dominance of males in younger age groups. However, men in our country tend to have shorter lifespans than women. Consequently, the numerical dominance of women becomes strikingly evident in older age groups (e.g., among individuals aged 70 and above, there are 169 women for every 100 men).",
+        "lesson2_t8_p2": "It is also worth noting that urban areas in Poland host more women than men. In 2019, the feminization ratio in cities reached 111. This phenomenon is largely driven by women migrating from rural areas to cities, often in pursuit of education, broader opportunities, and particularly more interesting and better-paid employment prospects. These disparities are especially pronounced among younger age groups. Conversely, rural areas have a feminization ratio below the national average.",
+        "lesson2_t8_p3": "This intricate interplay of social and biological factors underscores the dynamic gender distribution across Poland, reflecting both traditional patterns and evolving societal trends.",
+
+
+        "lesson2_title9":"The Age Structure of the Population: A Reflection on Time's Passage",
+        "lesson2_t9_p1":"A gradual decline in population—driven by a higher number of deaths than births—alongside the numerical dominance of older generations, is reshaping the age structure of our society. Additionally, Poles are living increasingly longer lives, as evidenced by the data depicted in the accompanying illustration. The average life expectancy in our country now approaches an impressive 78 years.",
+        "lesson2_t9_p2": "Take a moment to examine the graph below. Notice how the proportion of children (aged 0–14) in the population has been steadily decreasing, while the share of individuals in older age groups (65 years and above) continues to rise. This undeniable trend reveals a profound truth: Polish society is aging.",
+        "lesson2_t9_p3": "This shift in demographics not only reflects advancements in healthcare and living conditions but also serves as a call to adapt to the challenges and opportunities posed by an aging population.",
+
+        "lesson2_title10":"The Categorization of the Population by Economic Age Groups",
+        "lesson2_t10_p1":"Within this framework, the population has been delineated into the following categories:",
+        "lesson2_t11_strong1": "Pre-productive age population (0–17 years)",
+        "lesson2_t11_strong2": "Productive age population (women aged 18–59, men aged 18–64)",
+        "lesson2_t11_strong3": "Post-productive age population (women aged 60 and above, men aged 65 and above).",
+        "lesson2_t11_p2":"This classification provides a clear lens through which to analyze the social and economic roles of different age groups, highlighting the dynamic interplay between youth, labor, and retirement within the fabric of society.",
+
+        "lesson2_title11": "The Age and Gender Pyramid of Poland’s Population: A Reflection of History and Demography",
+        "lesson2_t11_p1": "The age and gender pyramid of Poland’s population presents an irregular shape, shaped by factors such as birth and death rates, average life expectancy, and international migration. The varying size of individual age groups reflects periods of demographic booms and declines, painting a vivid picture of the historical evolution of our society.",
+        "lesson2_t11_strong4":"Decline in the oldest age groups due to natural attrition.",
+        "lesson2_t11_strong5":"Scarcity of population caused by high mortality rates and low birth rates during World War II..",
+        "lesson2_t11_strong6":"Post-war baby boom, marked by a surge in births following the end of World War II.",
+        "lesson2_t11_strong7":"Demographic decline resulting from the low birth rates of cohorts born during World War II.",
+        "lesson2_t11_strong8":"Echo of the post-war baby boom, reflected in the significant size of generations born to those from the baby boom era.",
+        "lesson2_t11_strong9":"Lower population size caused by a widespread preference for smaller family models (2+1), contributing to reduced birth rates.",
+        
+        "lesson2_title12": "The Impact of Demographic Transformations on Socio-Economic Development",
+        "lesson2_t12_p1": "Demographic changes bring forth various consequences for the socio-economic development of our nation. Among these consequences, the following stand out:",
+        "lesson2_t12_strong1": "Transformation of the family model",
+        "lesson2_t12_p2": "characterized by fewer children and a growing proportion of elderly individuals.",
+        "lesson2_t12_strong2": "Heightened sense of loneliness and social isolation among the elderly",
+        "lesson2_t12_p3": "arising from younger generations leaving family homes, often for opportunities abroad",
+        "lesson2_t12_p4": "These shifts underscore the profound ways in which demographic trends influence the structure of society and the challenges it must address.",
+
+
+        "lesson2_title13": "The Socio-Economic Consequences of Demographic Shifts",
+        "lesson2_t13_strong1": "Declining local labor resources",
+        "lesson2_t13_p1":"driven by a decrease in the number of young people (depopulation), which in turn diminishes the investment attractiveness of certain areas.",
+        "lesson2_t13_strong2": "Increasing developmental disparities between rural and urban areas ",
+        "lesson2_t13_p2":"rural regions are dominated by older populations, while urban centers have a greater concentration of younger people.",
+        "lesson2_t13_strong3": "Growing influence of the elderly on the economy",
+        "lesson2_t13_p3":"including the expansion of services tailored to this demographic group.",
+        "lesson2_t13_strong4": "Rising state budget expenditures on pension-related benefits",
+        "lesson2_t13_p4":"necessitated by the increasing share of the aging population.",
+        "lesson2_t13_p5":"These outcomes highlight the profound interplay between demographic evolution and the socio-economic landscape, shaping both challenges and opportunities for the nation's future.",
+        
+
+        "lesson2_title14":"The most important things",
+        "lesson2_t14_p1":"The number of births and deaths in Poland has remained relatively constant since 1998. This has resulted in a low natural increase rate, which stood at -0.9% in 2019.",
+        "lesson2_t14_p2":"Higher natural increase rates are observed in areas surrounding major cities, while low (negative) rates are prevalent in eastern, central, and southwestern regions of Poland.",
+        "lesson2_t14_p3":"For many years, Poland’s population has included more women than men, with an average of 107 women for every 100 men.",
+        "lesson2_t14_p4":"The share of young individuals within Poland's age structure is declining, while the proportion of older individuals is increasing, signaling an aging society",
+
+        "lesson2_t14_strong1":"Stable birth and death rates since 1998",
+        "lesson2_t14_strong2":"Spatial variation in the natural increase rate",
+        "lesson2_t14_strong3":"A gender imbalance favoring women",
+        "lesson2_t14_strong4":"An aging population",
 
 
         "lesson3": "Lesson 3",
@@ -337,6 +398,65 @@
 
         "lesson2_t6_strong1":"Uwarunkowanie społeczno kulturowe",
         "lesson2_t6_strong2":"Polska sytuacja ekonomiczna",
+
+        "lesson2_title7": "Czy wiesz?",
+        "lesson2_t7_p1": "Obszary wiejskie o charakterze rolniczym nie wydają się szczególnie atrakcyjne dla młodych dorosłych, zwłaszcza dla młodych kobiet. W 2019 roku na wsi w wieku 20–34 lat mieszkało 107 tysięcy mężczyzn więcej niż kobiet.",
+
+        "lesson2_tile8": "Demograficzny Podział według Płci: Dogłębna Perspektywa",
+        "lesson2_t8_p1": "W naszym kraju kobiety przewyższają liczebnie mężczyzn, co potwierdza współczynnik feminizacji. W 2019 roku kobiety stanowiły 51,6% populacji. Od lat trend ten pozostaje stały – na 100 mężczyzn przypada średnio 107 kobiet. Skąd ta przewaga liczebna? Co ciekawe, w Polsce rodzi się więcej chłopców niż dziewcząt, co prowadzi do niewielkiej przewagi liczebnej mężczyzn w młodszych grupach wiekowych. Jednakże mężczyźni w naszym kraju żyją przeciętnie krócej niż kobiety, co powoduje, że przewaga liczebna kobiet jest szczególnie widoczna w starszych grupach wiekowych (np. wśród osób w wieku 70 lat i więcej przypada 169 kobiet na 100 mężczyzn).",
+        "lesson2_t8_p2": "Warto również zauważyć, że w miastach w Polsce mieszka więcej kobiet niż mężczyzn. W 2019 roku współczynnik feminizacji w miastach wyniósł 111. Zjawisko to jest głównie wynikiem migracji kobiet z obszarów wiejskich do miast, często w celu podjęcia nauki, korzystania z szerszych możliwości oraz poszukiwania ciekawszej i lepiej płatnej pracy. Dysproporcje te są szczególnie wyraźne wśród młodych osób. Natomiast na obszarach wiejskich współczynnik feminizacji jest niższy od średniej krajowej.",
+        "lesson2_t8_p3": "Ta złożona gra czynników społecznych i biologicznych podkreśla dynamiczny podział płci w Polsce, odzwierciedlając zarówno tradycyjne wzorce, jak i zmieniające się trendy społeczne.",
+
+        "lesson2_title9": "Struktura Wiekowa Ludności: Refleksja nad Upływem Czasu",
+        "lesson2_t9_p1": "Stopniowy spadek liczby ludności – wynikający z większej liczby zgonów niż urodzeń – oraz przewaga liczebna starszych pokoleń zmieniają strukturę wiekową naszego społeczeństwa. Dodatkowo Polacy żyją coraz dłużej, co potwierdzają dane przedstawione na załączonej ilustracji. Średnia długość życia w naszym kraju wynosi obecnie imponujące 78 lat.",
+        "lesson2_t9_p2": "Przyjrzyj się poniższemu wykresowi. Zauważ, że odsetek dzieci (w wieku 0–14 lat) w populacji systematycznie maleje, podczas gdy udział osób starszych (w wieku 65 lat i więcej) stale rośnie. Ten niezaprzeczalny trend ujawnia głęboką prawdę: polskie społeczeństwo starzeje się.",
+        "lesson2_t9_p3": "Te zmiany demograficzne nie tylko odzwierciedlają postęp w opiece zdrowotnej i warunkach życia, ale również wzywają do dostosowania się do wyzwań i szans związanych ze starzeniem się społeczeństwa.",
+
+        "lesson2_title10": "Klasyfikacja Ludności według Ekonomicznych Grup Wiekowych",
+        "lesson2_t10_p1": "W ramach tej klasyfikacji ludność została podzielona na następujące kategorie:",
+        "lesson2_t11_strong1": "Ludność w wieku przedprodukcyjnym (0–17 lat)",
+        "lesson2_t11_strong2": "Ludność w wieku produkcyjnym (kobiety w wieku 18–59 lat, mężczyźni w wieku 18–64 lat)",
+        "lesson2_t11_strong3": "Ludność w wieku poprodukcyjnym (kobiety od 60. roku życia, mężczyźni od 65. roku życia).",
+        "lesson2_t11_p2": "Ten podział pozwala na jasną analizę społecznych i ekonomicznych ról różnych grup wiekowych, ukazując dynamiczną interakcję między młodością, pracą a emeryturą w strukturze społeczeństwa.",
+
+        "lesson2_title11": "Piramida Wiekowo-Płciowa Ludności Polski: Refleksja nad Historią i Demografią",
+        "lesson2_t11_p1": "Piramida wiekowo-płciowa ludności Polski ma nieregularny kształt, kształtowany przez takie czynniki jak liczba urodzeń i zgonów, średnia długość życia oraz migracje międzynarodowe. Zróżnicowana liczebność poszczególnych grup wiekowych odzwierciedla okresy wyżów i niżów demograficznych, tworząc żywy obraz historycznego rozwoju naszego społeczeństwa.",
+        "lesson2_t11_strong4": "Spadek liczby osób w najstarszych grupach wiekowych z przyczyn naturalnych.",
+        "lesson2_t11_strong5": "Mała liczebność spowodowana wysoką liczbą zgonów i niską liczbą urodzeń w czasie II wojny światowej.",
+        "lesson2_t11_strong6": "Powojenny wyż demograficzny, związany z dużą liczbą urodzeń po zakończeniu II wojny światowej.",
+        "lesson2_t11_strong7": "Niż demograficzny wynikający z niskiej liczby urodzeń wśród pokoleń urodzonych podczas II wojny światowej.",
+        "lesson2_t11_strong8": "Echo powojennego wyżu demograficznego, odzwierciedlone w znaczącej liczbie pokoleń pochodzących z tego okresu.",
+        "lesson2_t11_strong9": "Mniejsza liczebność wynikająca z powszechnego modelu małych rodzin (2+1), co przyczyniło się do spadku liczby urodzeń.",
+
+        "lesson2_title12": "Wpływ Przemian Demograficznych na Rozwój Społeczno-Ekonomiczny",
+        "lesson2_t12_p1": "Zmiany demograficzne przynoszą różnorodne konsekwencje dla rozwoju społeczno-ekonomicznego naszego kraju. Wśród nich szczególnie wyróżniają się:",
+        "lesson2_t12_strong1": "Przekształcenie modelu rodziny",
+        "lesson2_t12_p2": "charakteryzujące się mniejszą liczbą dzieci i rosnącym udziałem osób starszych.",
+        "lesson2_t12_strong2": "Zwiększone poczucie osamotnienia i społecznej izolacji wśród osób starszych",
+        "lesson2_t12_p3": "wynikające z opuszczania przez młodsze pokolenia domów rodzinnych, często w poszukiwaniu możliwości za granicą.",
+        "lesson2_t12_p4": "Te zmiany podkreślają głęboki wpływ trendów demograficznych na strukturę społeczeństwa i wyzwania, przed którymi ono staje.",
+
+        "lesson2_title13": "Społeczno-Ekonomiczne Konsekwencje Przemian Demograficznych",
+        "lesson2_t13_strong1": "Kurczące się lokalne zasoby pracy",
+        "lesson2_t13_p1": "spowodowane spadkiem liczby młodych ludzi (depopulacja), co zmniejsza atrakcyjność inwestycyjną pewnych obszarów.",
+        "lesson2_t13_strong2": "Wzrost dysproporcji rozwojowych między obszarami wiejskimi i miejskimi",
+        "lesson2_t13_p2": "obszary wiejskie zdominowane są przez osoby starsze, podczas gdy w miastach przeważają ludzie młodzi.",
+        "lesson2_t13_strong3": "Coraz większy wpływ osób starszych na gospodarkę",
+        "lesson2_t13_p3": "w tym rozwój usług skierowanych do tej grupy demograficznej.",
+        "lesson2_t13_strong4": "Wzrost wydatków budżetowych na świadczenia emerytalne",
+        "lesson2_t13_p4": "wynikający ze zwiększonego udziału osób starszych w populacji.",
+        "lesson2_t13_p5": "Te skutki uwypuklają głębokie powiązania między ewolucją demograficzną a społeczno-ekonomicznym krajobrazem, kształtując zarówno wyzwania, jak i możliwości dla przyszłości narodu.",
+
+        "lesson2_title14": "Zapamiętaj",
+        "lesson2_t14_p1": "Od 1998 roku liczba urodzeń i zgonów w Polsce pozostaje na podobnym poziomie, co skutkuje niskim współczynnikiem przyrostu naturalnego, który w 2019 roku wyniósł -0,9%.",
+        "lesson2_t14_p2": "Wysokie wskaźniki przyrostu naturalnego obserwuje się w rejonach wokół dużych miast, podczas gdy niskie (ujemne) wartości dominują na wschodzie, w centrum i na południowym zachodzie Polski.",
+        "lesson2_t14_p3": "Od wielu lat w populacji Polski jest więcej kobiet niż mężczyzn – średnio na 100 mężczyzn przypada 107 kobiet.",
+        "lesson2_t14_p4": "Udział młodych osób w strukturze wiekowej Polski maleje, podczas gdy udział osób starszych rośnie, co świadczy o starzeniu się społeczeństwa.",
+
+        "lesson2_t14_strong1": "Stabilne wskaźniki urodzeń i zgonów od 1998 roku",
+        "lesson2_t14_strong2": "Przestrzenne zróżnicowanie współczynnika przyrostu naturalnego",
+        "lesson2_t14_strong3": "Nadmierność liczebna kobiet względem mężczyzn",
+        "lesson2_t14_strong4": "Starzejące się społeczeństwo",
 
 
         "lesson3": "Lekcja 3",
